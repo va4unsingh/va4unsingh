@@ -13,3 +13,14 @@ Learning by Building
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/va4unsingh/va4unsingh/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/va4unsingh/va4unsingh/output/github-snake.svg" />
 </picture>
+
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31cxurcdk4m7t4366i7lomuhdksm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cxurcdk4m7t4366i7lomuhdksm&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
